@@ -1,6 +1,11 @@
 # Note: github overrides some configs.
 # see https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
 
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:title
+
 markdown: kramdown
 kramdown:
   input: GFM
