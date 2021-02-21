@@ -10,3 +10,18 @@ body {
   margin: 2rem auto;
   font-family: "Droid Serif";
 }
+
+ul.list-linear {
+  padding-left: 0;
+  display: flex;
+
+  & > li {
+    list-style: none;
+    display: inline;
+
+    &:not(:first-child)::before {
+      content: "⬥";
+      margin: 0 0.5em;
+    }
+  }
+}

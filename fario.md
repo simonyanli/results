@@ -3,11 +3,10 @@ layout: default
 title: French-Australian Regional Informatics Olympiad
 ---
 
-[France-IOI](http://www.france-ioi.org/)
-⬥
-[AIOC](http://orac.amt.edu.au/)
-⬥
-[IOI](http://www.ioinformatics.org/)
+{: .list-linear }
+- [France-IOI](http://www.france-ioi.org/)
+- [AIOC](http://orac.amt.edu.au/)
+- [IOI](http://www.ioinformatics.org/)
 
  Bienvenue! Welcome to the archives for the French-Australian Regional Informatics Olympiad.
 
