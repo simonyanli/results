@@ -1,0 +1,20 @@
+# Note: github overrides some configs.
+# see https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+  math_engine: mathjax
+
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+exclude:
+  - Dockerfile
+  - serve.sh
