@@ -206,195 +206,139 @@ The results for AIIO 2021 are below:
 <td align="right">0</td>
 <td align="right">10</td>
 <td align="right">40</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">5</td>
 <td align="right">5</td>
 <td align="right">40</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">5</td>
 <td align="right">0</td>
 <td align="right">35</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">35</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">5</td>
 <td align="right">0</td>
 <td align="right">35</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">30</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">20</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">15</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">5</td>
 <td align="right">10</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">10</td>
 <td align="right">10</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">0</td>
 <td align="right">5</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">0</td>
 <td align="right">5</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 <tr>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">5</td>
 <td align="right">5</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
-</tr>
-<tr>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td>Particpation</td>
+<td></td>
 </tr>
 </tbody></table>
