@@ -1,11 +1,11 @@
 2021:
   date: "February 11"
-  full_results: "aiio/aiio21.md"
+  full_results: "aiio21.html"
   highest: "Arthur Sun (300)"
 
 2020:
   date: "February 13"
-  full_results: "aiio/aiio20.md"
+  full_results: "aiio20.html"
   highest:
     - "Isaiah Iliffe"
     - "Tunan Shi"
@@ -14,7 +14,7 @@
 
 2019:
   date: "February 14"
-  full_results: "aiio/aiio19.md"
+  full_results: "aiio19.html"
   highest: "Angus Ritossa (300)"
 
 2018:

@@ -31,7 +31,7 @@ For results of past AIIOs, please follow the links in the table below.
       <br>
       {% endfor %}
       </td>
-      <td>{% if row[1].full_results %}<a href="{% link {{ row[1].full_results }} %}">link</a>{% endif %}</td>
+      <td>{% if row[1].full_results %}<a href="{{ row[1].full_results }}">link</a>{% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
