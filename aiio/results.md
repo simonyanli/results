@@ -13,8 +13,6 @@ For further information on the Australian Informatics Olympiad programme, includ
 
 For results of past AIIOs, please follow the links in the table below.
 
-[2021]({% link aiio21.md %})
-
 <table class="table">
   <thead class="thead-dark">
     <tr>
