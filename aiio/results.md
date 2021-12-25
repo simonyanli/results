@@ -27,7 +27,12 @@ For results of past AIIOs, please follow the links in the table below.
     {% for row in site.data.aiio.aiio %}
     <tr>
       <td><strong>{{ row | first }}</strong> ({{ row[1].date }})</td>
-      <td>{{ row[1].highest }}</td>
+      <td>
+      {% for high in row[1].highest %}
+      {{ high }}
+      <br>
+      {% endfor %}
+      </td>
       <td>{% if row[1].full_results %}<a href="{% link {{ row[1].full_results }} %}">link</a>{% endif %}</td>
     </tr>
     {% endfor %}
