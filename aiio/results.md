@@ -23,7 +23,7 @@ For results of past AIIOs, please follow the links in the table below.
     </tr>
   </thead>
   <tbody>
-    {% for row in site.data.aiio %}
+    {% for row in site.data.aiio.aiio %}
     <tr>
       <td><strong>{{ row | first }}</strong> ({{ row[1].date }})</td>
       <td>{{ row[1].highest }}</td>
