@@ -20,6 +20,7 @@ For results of past AIIOs, please follow the links in the table below.
     <tr>
       <th>Year</th>
       <th>Highest Score</th>
+      <th>Full results</th>
     </tr>
   </thead>
   <tbody>
@@ -27,6 +28,7 @@ For results of past AIIOs, please follow the links in the table below.
     <tr>
       <td><strong>{{ row | first }}</strong> ({{ row[1].date }})</td>
       <td>{{ row[1].highest }}</td>
+      <td>{% if row[1].full_results %}<a href="{% link {{ row[1].full_results }} %}">link</a>{% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
