@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Australian Invitational Informatics Olympiad 2015
+year: 2015
 q1: Friendly
 q2: Going Home
 q3: Riding Jetstreams

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Australian Invitational Informatics Olympiad 2012
+year: 2012
 q1: Time Warp
 q2: Hopscootch
 q3: Negotiations

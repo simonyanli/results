@@ -1,11 +1,13 @@
 2021:
   date: "February 11"
   full_results: "aiio21.html"
+  num_competitors: "A total of 43 official competitors sat AIIO 2021."
   highest: "Arthur Sun (300)"
 
 2020:
   date: "February 13"
   full_results: "aiio20.html"
+  num_competitors: "A total of 47 official competitors sat AIIO 2020."
   highest:
     - "Isaiah Iliffe"
     - "Tunan Shi"
@@ -15,6 +17,7 @@
 2019:
   date: "February 14"
   full_results: "aiio19.html"
+  num_competitors: "A total of 49 official competitors sat AIIO 2019: 31 from Australia, and 18 from New Zealand."
   highest: "Angus Ritossa (300)"
 
 2018:
@@ -24,6 +27,7 @@
 2017:
   date: "February 9"
   full_results: "aiio17.html"
+  num_competitors: "A total of 42 official competitors sat AIIO 2017."
   highest:
     - "Richard Gong"
     - "Jerry Mao (300)"
@@ -31,6 +35,7 @@
 2016:
   date: "February 11"
   full_results: "aiio16.html"
+  num_competitors: "A total of 46 official competitors sat AIIO 2016."
   highest:
     - "Richard Gong"
     - "Jerry Mao"
@@ -39,6 +44,7 @@
 2015:
   date: "February 12"
   full_results: "aiio15.html"
+  num_competitors: "A total of 37 official competitors sat AIIO 2015."
   highest:
     - "Ishraq Huda"
     - "Michael Chen (300)"
@@ -46,6 +52,7 @@
 2014:
   date: "February 13"
   full_results: "aiio14.html"
+  num_competitors: "A total of 37 official and 2 unofficial competitors sat the AIIO 2014."
   highest:
     - "Ishraq Huda"
     - "Ray Li (300)"
@@ -53,6 +60,7 @@
 2013:
   date: "February 14"
   full_results: "aiio13.html"
+  num_competitors: "A total of 35 official and 2 unofficial competitors sat the AIIO 2013."
   highest:
     - "Michael Chen"
     - "Ishraq Huda"
@@ -68,6 +76,7 @@
 2012:
   date: "February 16"
   full_results: "aiio12.html"
+  num_competitors: "A total of 38 official and 3 unofficial competitors sat the AIIO 2012."
   highest:
     - "Michael Chen"
     - "Nicholas Laver"
@@ -77,6 +86,7 @@
 2011:
   date: "February 17"
   full_results: "aiio11.html"
+  num_competitors: "There were 40."
   highest:
     - "Robert Newey"
     - "Tony Sun"
@@ -85,6 +95,7 @@
 2010:
   date: "February 18"
   full_results: "aiio10.html"
+  num_competitors: "There were 36."
   highest:
     - "Duncan Berry"
     - "Luke Harrison"
