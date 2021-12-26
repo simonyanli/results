@@ -23,12 +23,14 @@
 
 2017:
   date: "February 9"
+  full_results: "aiio17.html"
   highest:
     - "Richard Gong"
     - "Jerry Mao (300)"
 
 2016:
   date: "February 11"
+  full_results: "aiio16.html"
   highest:
     - "Richard Gong"
     - "Jerry Mao"
@@ -36,18 +38,21 @@
 
 2015:
   date: "February 12"
+  full_results: "aiio15.html"
   highest:
     - "Ishraq Huda"
     - "Michael Chen (300)"
 
 2014:
   date: "February 13"
+  full_results: "aiio14.html"
   highest:
     - "Ishraq Huda"
     - "Ray Li (300)"
 
 2013:
   date: "February 14"
+  full_results: "aiio13.html"
   highest:
     - "Michael Chen"
     - "Ishraq Huda"
@@ -62,6 +67,7 @@
 
 2012:
   date: "February 16"
+  full_results: "aiio12.html"
   highest:
     - "Michael Chen"
     - "Nicholas Laver"
@@ -70,6 +76,7 @@
 
 2011:
   date: "February 17"
+  full_results: "aiio11.html"
   highest:
     - "Robert Newey"
     - "Tony Sun"
@@ -77,6 +84,7 @@
 
 2010:
   date: "February 18"
+  full_results: "aiio10.html"
   highest:
     - "Duncan Berry"
     - "Luke Harrison"
@@ -85,18 +93,22 @@
 
 2009:
   date: "February 19"
+  full_results: "aiio09.html"
   highest: "Evgeny Martynov (240)"
 
 2008:
   date: "February 18"
+  full_results: "aiio08.html"
   highest:
     - "Jarrah Lacko"
     - "Jack Murray (300)"
 
 2007:
   date: "February 15"
+  full_results: "aiio07.html"
   highest: "Christopher Chen (300)"
 
 2006:
   date: "February 16"
+  full_results: "aiio06.html"
   highest: "Christopher Chen (212)"
