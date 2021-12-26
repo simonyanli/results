@@ -2,7 +2,7 @@ Congratulations to all the participants of the {{page.year}} AIIO!
 
 {{ site.data.aiio.aiio[page.year].num_competitors }}
 
-<table class="table table-bordered table-hover table-condensed">
+<table class="sorttable results">
 <thead><tr>
 <th title="Field #1">Name</th>
 <th title="Field #1">Country</th>
@@ -16,13 +16,13 @@ Congratulations to all the participants of the {{page.year}} AIIO!
 {% assign resultscsv = site.data.aiio[page.resultsfile] %}
 {% for row in resultscsv %}
 <tr>
-<td align="right">{{row.name}}</td>
-<td align="right">{{row.country}}</td>
-<td align="right">{{row.q1}}</td>
-<td align="right">{{row.q2}}</td>
-<td align="right">{{row.q3}}</td>
-<td align="right">{{row.total}}</td>
-<td align="right">{{row.award}}</td>
+<td align="">{{row.name}}</td>
+<td align="">{{row.country}}</td>
+<td align="">{{row.q1}}</td>
+<td align="">{{row.q2}}</td>
+<td align="">{{row.q3}}</td>
+<td align="">{{row.total}}</td>
+<td align="">{{row.award}}</td>
 </tr>
 {% endfor %}
 </tbody></table>

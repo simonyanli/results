@@ -29,3 +29,38 @@ div.sidebar {
   padding-right: 0;
   background-color: #d6d0b6;
 }
+
+table.results {
+  width: auto;
+  font-family: "Droid Serif";
+  font-size: 1rem;
+  line-height: 1.2rem;
+  border: 0;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.results th {
+  font-weight: bold;
+  color: #3D3F53;
+  background-color: #E0E2F8;
+  padding: 2px 1ex 2px 1ex;
+  border-top: 1px;
+  border-bottom: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-color: #B5BCF8;
+  border-style: solid;
+}
+
+table.results td {
+  background-color: #F2F4F8;
+  padding: 2px 2px 2px 2px;
+  border-top: 0px;
+  border-bottom: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  border-color: #B5BCF8;
+  border-style: solid
+}
