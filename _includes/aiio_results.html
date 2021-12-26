@@ -26,3 +26,19 @@ Congratulations to all the participants of the {{page.year}} AIIO!
 </tr>
 {% endfor %}
 </tbody></table>
+
+{% if site.data.aiio.aiio[page.year].graphs %}
+<h2>Score distribution graphs</h2>
+
+Click on any to enlarge them.
+
+<table class="scoregraphs">
+    <tr>
+    {% for graph in site.data.aiio.aiio[page.year].graphs %}
+    <td>
+        <a href="/assets/{{ graph }}"><img class="scoregraph" src="/assets/{{ graph }}"></a>
+    </td>
+    {% endfor %}
+    </tr>
+</table>
+{% endif %}

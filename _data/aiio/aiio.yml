@@ -3,6 +3,11 @@
   full_results: "aiio21.html"
   num_competitors: "A total of 43 official competitors sat AIIO 2021."
   highest: "Arthur Sun (300)"
+  graphs:
+    - "aiio21/q1.svg"
+    - "aiio21/q2.svg"
+    - "aiio21/q3.svg"
+    - "aiio21/total.svg"
 
 2020:
   date: "February 13"
@@ -13,12 +18,22 @@
     - "Tunan Shi"
     - "James King"
     - "Junhua Chen (300)"
+  graphs:
+    - "aiio20/q1.svg"
+    - "aiio20/q2.svg"
+    - "aiio20/q3.svg"
+    - "aiio20/total.svg"
 
 2019:
   date: "February 14"
   full_results: "aiio19.html"
   num_competitors: "A total of 49 official competitors sat AIIO 2019: 31 from Australia, and 18 from New Zealand."
   highest: "Angus Ritossa (300)"
+  graphs:
+    - "aiio19/q1.svg"
+    - "aiio19/q2.svg"
+    - "aiio19/q3.svg"
+    - "aiio19/total.svg"
 
 2018:
   date: "date unknown"
@@ -91,6 +106,10 @@
     - "Robert Newey"
     - "Tony Sun"
     - "Dawson Xu (300)"
+  graphs:
+    - "aiio11/q1.png"
+    - "aiio11/q2.png"
+    - "aiio11/q3.png"
 
 2010:
   date: "February 18"
@@ -101,6 +120,10 @@
     - "Luke Harrison"
     - "Evgeny Martynov"
     - "Jamie McCloskey (300)"
+  graphs:
+    - "aiio10/q1.png"
+    - "aiio10/q2.png"
+    - "aiio10/q3.png"
 
 2009:
   date: "February 19"
@@ -113,13 +136,25 @@
   highest:
     - "Jarrah Lacko"
     - "Jack Murray (300)"
+  graphs:
+    - "aiio08/q1.png"
+    - "aiio08/q2.png"
+    - "aiio08/q3.png"
 
 2007:
   date: "February 15"
   full_results: "aiio07.html"
   highest: "Christopher Chen (300)"
+  graphs:
+    - "aiio07/q1.png"
+    - "aiio07/q2.png"
+    - "aiio07/q3.png"
 
 2006:
   date: "February 16"
   full_results: "aiio06.html"
   highest: "Christopher Chen (212)"
+  graphs:
+    - "aiio06/q1.png"
+    - "aiio06/q2.png"
+    - "aiio06/q3.png"
