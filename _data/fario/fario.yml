@@ -1,8 +1,47 @@
+2021:
+  date: ""
+  full_results: "fario21.html"
+  winner: "kekers"
+  highest:
+    - [ "Angus Ritossa", "Au" ]
+  graphs:
+    - "fario21/q1.svg"
+    - "fario21/q2.svg"
+    - "fario21/q3.svg"
+    - "fario21/total.svg"
+  statements:
+    - [ "French", "fario21-fr.pdf"]
+    - [ "English", "fario21-en.pdf"]
+
+2020:
+  date: ""
+  full_results: "fario20.html"
+  winner: "kekers"
+  highest:
+    - [ "Angus Ritossa", "Au" ]
+  graphs:
+    - "fario20/q1.svg"
+    - "fario20/q2.svg"
+    - "fario20/q3.svg"
+    - "fario20/total.svg"
+  statements:
+    - [ "French", "fario20-fr.pdf"]
+    - [ "English", "fario20-en.pdf"]
+
 2019:
   date: "8-11 March"
+  full_results: "fario19.html"
   winner: "Au"
   highest:
     - [ "Angus Ritossa", "Au" ]
+  graphs:
+    - "fario19/q1.png"
+    - "fario19/q2.png"
+    - "fario19/q3.png"
+    - "fario19/total.png"
+  statements:
+    - [ "French", "fario19-fr.pdf"]
+    - [ "English", "fario19-en.pdf"]
 
 2018:
   date: "9-12 March"

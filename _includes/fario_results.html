@@ -1,0 +1,44 @@
+Congratulations to all the participants of the {{page.year}} FARIO!
+
+{{ site.data.fario.fario[page.year].num_competitors }}
+
+<table class="sorttable results">
+<thead><tr>
+<th title="Field #1">Name</th>
+<th title="Field #1">Country</th>
+<th title="Field #1">{{page.q1}}</th>
+<th title="Field #2">{{page.q2}}</th>
+<th title="Field #3">{{page.q3}}</th>
+<th title="Field #4">Total</th>
+<th title="Field #5">Award</th>
+</tr></thead>
+<tbody>
+{% assign resultscsv = site.data.fario[page.resultsfile] %}
+{% for row in resultscsv %}
+<tr>
+<td align="">{{row.name}}</td>
+<td align="">{{row.country}}</td>
+<td align="">{{row.q1}}</td>
+<td align="">{{row.q2}}</td>
+<td align="">{{row.q3}}</td>
+<td align="">{{row.total}}</td>
+<td align="">{{row.award}}</td>
+</tr>
+{% endfor %}
+</tbody></table>
+
+{% if site.data.fario.fario[page.year].graphs %}
+<h2>Score distribution graphs</h2>
+
+Click on any to enlarge them.
+
+<table class="scoregraphs">
+    <tr>
+    {% for graph in site.data.fario.fario[page.year].graphs %}
+    <td>
+        <a href="/assets/{{ graph }}"><img class="scoregraph" src="/assets/{{ graph }}"></a>
+    </td>
+    {% endfor %}
+    </tr>
+</table>
+{% endif %}

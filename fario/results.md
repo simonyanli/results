@@ -8,7 +8,7 @@ title: French-Australian Regional Informatics Olympiad
 - [AIOC](http://orac.amt.edu.au/)
 - [IOI](http://www.ioinformatics.org/)
 
- Bienvenue! Welcome to the archives for the French-Australian Regional Informatics Olympiad.
+Bienvenue! Welcome to the archives for the French-Australian Regional Informatics Olympiad.
 
 The FARIO is an annual competition held over the internet between IOI candidates and other interested students from France and Australia.
 It began in 2004 and will hopefully continue for many years into the future.
@@ -22,10 +22,12 @@ For general information on the FARIO, please contact your national organisation
       <th>Year</th>
       <th>Winner</th>
       <th>Highest Score</th>
+      <th>Full results</th>
+      <th>Statements</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in site.data.fario %}
+    {% for row in site.data.fario.fario %}
     <tr>
       <td><strong>{{ row | first }}</strong> ({{ row[1].date }})</td>
       <td class="country-{{ row[1].winner }}">
@@ -43,6 +45,12 @@ For general information on the FARIO, please contact your national organisation
         {%- if forloop.last == false -%},{%- endif -%}
       {% endfor %}
       </td>
+      <td>{% if row[1].full_results %}<a href="{{ row[1].full_results }}">link</a>{% endif %}</td>
+      <td>{% if row[1].statements %}
+      {% for st in row[1].statements %}
+          <a href="/assets/fario_statements/{{ st[1] }}">{{ st[0] }}</a>
+      {% endfor %}
+      {% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
