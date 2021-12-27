@@ -1,7 +1,7 @@
 2021:
-  date: ""
+  date: "4-7 March"
   full_results: "fario21.html"
-  winner: "kekers"
+  winner: "Who knows"
   highest:
     - [ "Angus Ritossa", "Au" ]
   graphs:
@@ -14,9 +14,9 @@
     - [ "English", "fario21-en.pdf"]
 
 2020:
-  date: ""
+  date: "5-8 March"
   full_results: "fario20.html"
-  winner: "kekers"
+  winner: "Who knows"
   highest:
     - [ "Angus Ritossa", "Au" ]
   graphs:
@@ -62,6 +62,11 @@
   statements:
     - [ "French", "fario17-fr.pdf"]
     - [ "English", "fario17-en.pdf"]
+  graphs:
+    - "fario17/q1.png"
+    - "fario17/q2.png"
+    - "fario17/q3.png"
+    - "fario17/total.png"
 
 2016:
   date: "11-13 March"
@@ -82,6 +87,10 @@
   statements:
     - [ "French", "fario15-fr.pdf"]
     - [ "English", "fario15-en.pdf"]
+  graphs:
+    - "fario15/q1.png"
+    - "fario15/q2.png"
+    - "fario15/q3.png"
 
 2014:
   date: "07-09 March"
@@ -92,6 +101,10 @@
   statements:
     - [ "French", "fario14-fr.pdf"]
     - [ "English", "fario14-en.pdf"]
+  graphs:
+    - "fario14/q1.png"
+    - "fario14/q2.png"
+    - "fario14/q3.png"
 
 2013:
   date: "15-17 March"
@@ -102,6 +115,10 @@
   statements:
     - [ "French", "fario13-fr.pdf"]
     - [ "English", "fario13-en.pdf"]
+  graphs:
+    - "fario13/q1.png"
+    - "fario13/q2.png"
+    - "fario13/q3.png"
 
 2012:
   date: "09-11 March"
@@ -112,6 +129,10 @@
   statements:
     - [ "French", "fario12-fr.pdf"]
     - [ "English", "fario12-en.pdf"]
+  graphs:
+    - "fario12/q1.png"
+    - "fario12/q2.png"
+    - "fario12/q3.png"
 
 2011:
   date: "11-13 March"
@@ -122,6 +143,11 @@
   statements:
     - [ "French", "fario11-fr.pdf"]
     - [ "English", "fario11-en.pdf"]
+  graphs:
+    - "fario11/q1.png"
+    - "fario11/q2.png"
+    - "fario11/q3.png"
+    - "fario11/q4.png"
 
 2010:
   date: "12-14 March"
@@ -132,6 +158,11 @@
   statements:
     - [ "French", "fario10-fr.pdf"]
     - [ "English", "fario10-en.pdf"]
+  graphs:
+    - "fario10/q1.png"
+    - "fario10/q2.png"
+    - "fario10/q3.png"
+    - "fario10/q4.png"
 
 2009:
   date: "13-15 March"
@@ -142,6 +173,11 @@
   statements:
     - [ "French", "fario09-fr.pdf"]
     - [ "English", "fario09-en.pdf"]
+  graphs:
+    - "fario09/q1.png"
+    - "fario09/q2.png"
+    - "fario09/q3.png"
+    - "fario09/q4.png"
 
 2008:
   date: "14-16 March"
@@ -152,6 +188,11 @@
   statements:
     - [ "French", "fario08-fr.pdf"]
     - [ "English", "fario08-en.pdf"]
+  graphs:
+    - "fario08/q1.png"
+    - "fario08/q2.png"
+    - "fario08/q3.png"
+    - "fario08/q4.png"
 
 2007:
   date: "9-11 March"
@@ -162,6 +203,11 @@
   statements:
     - [ "French", "fario07-fr.pdf"]
     - [ "English", "fario07-en.pdf"]
+  graphs:
+    - "fario07/q1.png"
+    - "fario07/q2.png"
+    - "fario07/q3.png"
+    - "fario07/q4.png"
 
 2006:
   date: "10-12 March"
@@ -172,6 +218,11 @@
   statements:
     - [ "French", "fario06-fr.pdf"]
     - [ "English", "fario06-en.pdf"]
+  graphs:
+    - "fario06/q1.png"
+    - "fario06/q2.png"
+    - "fario06/q3.png"
+    - "fario06/q4.png"
 
 2005:
   date: "8 May"
@@ -182,6 +233,10 @@
   statements:
     - [ "French", "fario05-fr.pdf"]
     - [ "English", "fario05-en.pdf"]
+  graphs:
+    - "fario05/q1.png"
+    - "fario05/q2.png"
+    - "fario05/q3.png"
 
 2004:
   date: "16 May"
@@ -193,3 +248,7 @@
   statements:
     - [ "French", "fario04-fr.pdf"]
     - [ "English", "fario04-en.pdf"]
+  graphs:
+    - "fario04/q1.png"
+    - "fario04/q2.png"
+    - "fario04/q3.png"
