@@ -45,91 +45,151 @@
 
 2018:
   date: "9-12 March"
+  full_results: "fario18.html"
   winner: "Au"
   highest:
     - [ "Jerry Mao", "Au" ]
+  statements:
+    - [ "French", "fario18-fr.pdf"]
+    - [ "English", "fario18-en.pdf"]
 
 2017:
   date: "9-12 March"
+  full_results: "fario17.html"
   winner: "Au"
   highest:
     - [ "Arthur Leonard", "Fr" ]
+  statements:
+    - [ "French", "fario17-fr.pdf"]
+    - [ "English", "fario17-en.pdf"]
 
 2016:
   date: "11-13 March"
+  full_results: "fario16.html"
   winner: "Au"
   highest:
     - [ "Richard Gong", "Au" ]
+  statements:
+    - [ "French", "fario16-fr.pdf"]
+    - [ "English", "fario16-en.pdf"]
 
 2015:
   date: "13-15 March"
+  full_results: "fario15.html"
   winner: "Au"
   highest:
     - [ "Ishraq Huda", "Au" ]
+  statements:
+    - [ "French", "fario15-fr.pdf"]
+    - [ "English", "fario15-en.pdf"]
 
 2014:
   date: "07-09 March"
+  full_results: "fario14.html"
   winner: "Au"
   highest:
     - [ "Ishraq Huda", "Au" ]
+  statements:
+    - [ "French", "fario14-fr.pdf"]
+    - [ "English", "fario14-en.pdf"]
 
 2013:
   date: "15-17 March"
+  full_results: "fario13.html"
   winner: "Au"
   highest:
     - [ "Ray Li", "Au" ]
+  statements:
+    - [ "French", "fario13-fr.pdf"]
+    - [ "English", "fario13-en.pdf"]
 
 2012:
   date: "09-11 March"
+  full_results: "fario12.html"
   winner: "Au"
   highest:
     - [ "Ray Li", "Au" ]
+  statements:
+    - [ "French", "fario12-fr.pdf"]
+    - [ "English", "fario12-en.pdf"]
 
 2011:
   date: "11-13 March"
+  full_results: "fario11.html"
   winner: "Au"
   highest:
     - [ "Paul Kirchner", "Fr" ]
+  statements:
+    - [ "French", "fario11-fr.pdf"]
+    - [ "English", "fario11-en.pdf"]
 
 2010:
   date: "12-14 March"
+  full_results: "fario10.html"
   winner: "Au"
   highest:
     - [ "Luke Harrison", "Au" ]
+  statements:
+    - [ "French", "fario10-fr.pdf"]
+    - [ "English", "fario10-en.pdf"]
 
 2009:
   date: "13-15 March"
+  full_results: "fario09.html"
   winner: "Au"
   highest:
     - [ "Daniel Berger", "Au" ]
+  statements:
+    - [ "French", "fario09-fr.pdf"]
+    - [ "English", "fario09-en.pdf"]
 
 2008:
   date: "14-16 March"
+  full_results: "fario08.html"
   winner: "Au"
   highest:
     - [ "Jarrah Lacko", "Au" ]
+  statements:
+    - [ "French", "fario08-fr.pdf"]
+    - [ "English", "fario08-en.pdf"]
 
 2007:
   date: "9-11 March"
+  full_results: "fario07.html"
   winner: "Au"
   highest:
     - [ "Chris Chen", "Au" ]
+  statements:
+    - [ "French", "fario07-fr.pdf"]
+    - [ "English", "fario07-en.pdf"]
 
 2006:
   date: "10-12 March"
+  full_results: "fario06.html"
   winner: "Fr"
   highest:
     - [ "Benjamin Butin", "Fr" ]
+  statements:
+    - [ "French", "fario06-fr.pdf"]
+    - [ "English", "fario06-en.pdf"]
 
 2005:
   date: "8 May"
+  full_results: "fario05.html"
   winner: "Au"
   highest:
     - [ "Mehdi Bouaziz", "Fr" ]
+  statements:
+    - [ "French", "fario05-fr.pdf"]
+    - [ "English", "fario05-en.pdf"]
 
 2004:
   date: "16 May"
+  full_results: "fario04.html"
   winner: "Fr"
   highest:
     - [ "Patrick Coleman", "Au" ]
     - [ "Thoai Duy Khang Tran", "Au" ]
+  statements:
+    - [ "French", "fario04-fr.pdf"]
+    - [ "English", "fario04-en.pdf"]
