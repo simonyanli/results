@@ -3,7 +3,7 @@
   full_results: "fario21.html"
   winner: "Who knows"
   highest:
-    - [ "Angus Ritossa", "Au" ]
+    - [ "James King", "Au" ]
   graphs:
     - "fario21/q1.svg"
     - "fario21/q2.svg"
@@ -18,7 +18,7 @@
   full_results: "fario20.html"
   winner: "Who knows"
   highest:
-    - [ "Angus Ritossa", "Au" ]
+    - [ "Isaiah Iliffe", "Au" ]
   graphs:
     - "fario20/q1.svg"
     - "fario20/q2.svg"
