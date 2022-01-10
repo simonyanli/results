@@ -25,3 +25,5 @@ exclude:
   - serve.sh
 
 theme: jekyll-theme-slate
+
+baseurl: /results

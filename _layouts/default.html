@@ -26,20 +26,20 @@
         <div class="col-2 sidebar">
           <ul class="nav flex-column">
             <li class="nav-item">
-              <a class="nav-link" href="{% link index.md %}">Home</a>
+                <a class="nav-link" href="{{ site.baseurl }}{% link index.md %}">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">AIIO</a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">About</a></li>
-                <li><a class="dropdown-item" href="{% link aiio/results.md %}">Results</a></li>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}{% link aiio/results.md %}">Results</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">FARIO</a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">About</a></li>
-                <li><a class="dropdown-item" href="{% link fario/results.md %}">Results</a></li>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}{% link fario/results.md %}">Results</a></li>
               </ul>
             </li>
           </ul>
