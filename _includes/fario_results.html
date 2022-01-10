@@ -62,7 +62,7 @@ Click on any to enlarge them.
     <tr>
     {% for graph in site.data.fario.fario[page.year].graphs %}
     <td>
-        <a href="/assets/{{ graph }}"><img class="scoregraph" src="/assets/{{ graph }}"></a>
+        <a href="{{ site.baseurl }}/assets/{{ graph }}"><img class="scoregraph" src="{{ site.baseurl }}/assets/{{ graph }}"></a>
     </td>
     {% endfor %}
     </tr>
