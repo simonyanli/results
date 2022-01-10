@@ -23,3 +23,5 @@ kramdown:
 exclude:
   - Dockerfile
   - serve.sh
+
+theme: jekyll-theme-slate
