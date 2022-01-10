@@ -2,3 +2,4 @@ _site
 .jekyll-cache
 *.swp
 *.swo
+.sass-cache
