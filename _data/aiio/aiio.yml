@@ -1,3 +1,20 @@
+2022:
+  date: "February 10"
+  full_results: "aiio22.html"
+  num_competitors: "A total of 37 official competitors sat AIIO 2022."
+  highest:
+    - "Zalan Varga"
+    - "Arthur Wenqi Sun"
+    - "Evan Lin"
+    - "Zirui Jerry Li"
+    - "Ethan du Toit"
+    - "Phoebe Zhang (300)"
+  graphs:
+    - "aiio22/q1.svg"
+    - "aiio22/q2.svg"
+    - "aiio22/q3.svg"
+    - "aiio22/total.svg"
+
 2021:
   date: "February 11"
   full_results: "aiio21.html"
