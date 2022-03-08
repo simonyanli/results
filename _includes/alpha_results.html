@@ -1,0 +1,70 @@
+Congratulations to all the participants of the {{page.year}} Alpha Contest!
+
+{{ site.data.alpha.alpha[page.year].num_competitors }}
+
+<table class="sorttable results">
+<thead><tr>
+{% if site.data.alpha[page.resultsfile][1].name %}
+<th title="Field #1">Name</th>
+{% endif %}
+<th title="Field #1">Country</th>
+{% if page.q1 %}
+<th title="Field #1">{{page.q1}}</th>
+{% endif %}
+{% if page.q2 %}
+<th title="Field #1">{{page.q2}}</th>
+{% endif %}
+{% if page.q3 %}
+<th title="Field #1">{{page.q3}}</th>
+{% endif %}
+{% if page.q4 %}
+<th title="Field #1">{{page.q4}}</th>
+{% endif %}
+<th title="Field #4">Total</th>
+{% if site.data.alpha[page.resultsfile][1].award %}
+<th title="Field #5">Award</th>
+{% endif %}
+</tr></thead>
+<tbody>
+{% assign resultscsv = site.data.alpha[page.resultsfile] %}
+{% for row in resultscsv %}
+<tr>
+{% if site.data.alpha[page.resultsfile][1].name %}
+<td align="">{{row.name}}</td>
+{% endif %}
+<td align="">{{row.country}}</td>
+{% if page.q1 %}
+<td align="">{{row.q1}}</td>
+{% endif %}
+{% if page.q2 %}
+<td align="">{{row.q2}}</td>
+{% endif %}
+{% if page.q3 %}
+<td align="">{{row.q3}}</td>
+{% endif %}
+{% if page.q4 %}
+<td align="">{{row.q4}}</td>
+{% endif %}
+<td align="">{{row.total}}</td>
+{% if site.data.alpha[page.resultsfile][1].award %}
+<td align="">{{row.award}}</td>
+{% endif %}
+</tr>
+{% endfor %}
+</tbody></table>
+
+{% if site.data.alpha.alpha[page.year].graphs %}
+<h2>Score distribution graphs</h2>
+
+Click on any to enlarge them.
+
+<table class="scoregraphs">
+    <tr>
+    {% for graph in site.data.alpha.alpha[page.year].graphs %}
+    <td>
+        <a href="{{ site.baseurl }}/assets/{{ graph }}"><img class="scoregraph" src="{{ site.baseurl }}/assets/{{ graph }}"></a>
+    </td>
+    {% endfor %}
+    </tr>
+</table>
+{% endif %}

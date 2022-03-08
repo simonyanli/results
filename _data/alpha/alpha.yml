@@ -1,0 +1,18 @@
+2022:
+  date: "February 19"
+  full_results: "alpha22.html"
+  num_competitors: "A total of 33 official competitors sat the 2022 Alpha Contest."
+  highest:
+    - "Zalan Varga"
+    - "Andy Wu"
+    - "Arthur Wenqi  Sun"
+    - "Evan Lin"
+    - "Zirui Jerry Li"
+    - "Henry Ho"
+    - "Daniel Rayhan Abdullah Zain (400)"
+  graphs:
+    - "alpha22/q1.svg"
+    - "alpha22/q2.svg"
+    - "alpha22/q3.svg"
+    - "alpha22/q4.svg"
+    - "alpha22/total.svg"
