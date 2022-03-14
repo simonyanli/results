@@ -1,3 +1,19 @@
+2022:
+  date: "5-8 March"
+  full_results: "fario22.html"
+  num_competitors: "A total of 68 official competitors sat FARIO 2022."
+  winner: "Who knows"
+  highest:
+    - [ "Jerry Li", "Au" ]
+  graphs:
+    - "fario22/q1.svg"
+    - "fario22/q2.svg"
+    - "fario22/q3.svg"
+    - "fario22/total.svg"
+  statements:
+    - [ "French", "fario22-fr.pdf"]
+    - [ "English", "fario22-en.pdf"]
+
 2021:
   date: "4-7 March"
   full_results: "fario21.html"
