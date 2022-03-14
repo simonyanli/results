@@ -48,7 +48,7 @@ For general information on the FARIO, please contact your national organisation
       <td>{% if row[1].full_results %}<a href="{{ row[1].full_results }}">link</a>{% endif %}</td>
       <td>{% if row[1].statements %}
       {% for st in row[1].statements %}
-          <a href="/assets/fario_statements/{{ st[1] }}">{{ st[0] }}</a>
+          <a href="{{ site.baseurl }}/assets/fario_statements/{{ st[1] }}">{{ st[0] }}</a>
       {% endfor %}
       {% endif %}</td>
     </tr>
